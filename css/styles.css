@@ -24,16 +24,16 @@ h1 {
   letter-spacing: 3px;
   color: rgb(8, 156, 5);
 } 
-/* #overlay{
+ #overlay{
   background-color: rgba(0, 0, 0, 0.1);
   height: 100%;
   width: 100%;
   position: absolute;
   /* overflow-x: hidden; */
-} */
-#head{
+} 
+/* #head{
   padding-top: 10%;
-}
+} */
 nav .navbar{
   width: 99%;
   padding-right: 0px;
