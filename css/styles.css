@@ -66,14 +66,14 @@ nav .navbar{
   font-size: 25px;
   padding: 30px;
 }
-/* .button{
+.button{
   border-radius: 10px;
-} */
-.card-title{
+} 
+/* .card-title{
   text-align: center;
   color: green;
   font-weight: 800;
-}
+} */
 .controls-top h2{
   color: rgb(5, 172, 5);
   padding-top: 40px;
