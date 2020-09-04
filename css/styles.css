@@ -187,12 +187,12 @@ td,th{
 #contactdetails h2{
   text-align: left;
 } 
-/* .footer{
+.footer{
   padding-top: 5%;
-} */
-#addedprice{
+} 
+/* #addedprice{
   display: none;
-}
+} */
 #finallmessage{
   display: none;
   padding-top: 10%;
