@@ -161,15 +161,15 @@ nav .navbar{
 .deliver{
   display: none;
 } 
-/* .delivery{
+.delivery{
   display: none;
   padding-left: 10%;
   padding-right: 10%;
-} */
-td,th{
+} 
+/* td,th{
   font-size: 20px;
   color: white;
-}
+} */
 .choice h2{
   color:orange;
   text-align: left;
