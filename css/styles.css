@@ -240,15 +240,15 @@ td,th{
   text-align: center;
   font-size: 20px;
 } 
-/* body,
+body,
 header,
 .landing {
   height: 100vh;
-} */
-h1 {
+}
+/* h1 {
   font-weight: bold;
   font-size: 40px;
-}
+} */
 .text h5{
   font-size: 20px;
   padding: 20px;
