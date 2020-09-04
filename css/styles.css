@@ -200,17 +200,17 @@ td,th{
   padding-left: 10%;
   font-size: 28px;
 } 
-/* #regards{
+#regards{
   text-align: center;
   color: aliceblue;
-} */
-#information{
+}
+/* #information{
   padding-top: 5%;
   font-size: 22px;
   padding-right: 8%;
   padding-left: 5%;
   /* color: whitesmoke; */
-}
+} */
 @media only screen and (max-width: 485px){
   .flex-xs-column {
     flex-direction: column;
