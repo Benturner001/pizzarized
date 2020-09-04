@@ -256,13 +256,13 @@ h1 {
 #head{
   padding-top: 30%;
 }
-/* .col-md-3{
+.col-md-3{
   padding-left: 20%;
-} */
-.iframe{
+} 
+/* .iframe{
   width: 300px;
   margin-right: 5%;
   margin-left: 10%;
-}
+} */
 
 }
