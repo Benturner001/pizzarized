@@ -20,17 +20,17 @@ h1 {
   text-shadow: 2px 2px 5px ;
 } 
 
-/* h5 {
+ h5 {
   letter-spacing: 3px;
   color: rgb(8, 156, 5);
-} */
-#overlay{
+} 
+/* #overlay{
   background-color: rgba(0, 0, 0, 0.1);
   height: 100%;
   width: 100%;
   position: absolute;
   /* overflow-x: hidden; */
-}
+} */
 #head{
   padding-top: 10%;
 }
