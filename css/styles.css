@@ -193,17 +193,17 @@ td,th{
 #addedprice{
   display: none;
 } 
-/* #finallmessage{
+#finallmessage{
   display: none;
   padding-top: 10%;
   padding-right: 10%;
   padding-left: 10%;
   font-size: 28px;
-} */
-#regards{
+} 
+/* #regards{
   text-align: center;
   color: aliceblue;
-}
+} */
 #information{
   padding-top: 5%;
   font-size: 22px;
