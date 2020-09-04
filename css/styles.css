@@ -216,13 +216,13 @@ td,th{
     flex-direction: column;
   }
 }
-/* @media only screen and (max-width: 767px){
+@media only screen and (max-width: 767px){
   .section {
     padding-top: 30px;
-} */
-.flex-xs-column {
-    flex-direction: column;
 }
+/* .flex-xs-column {
+    flex-direction: column;
+} */
 #about-us .content {
   padding: 20px 30px 40px;
 }
