@@ -174,14 +174,14 @@ td,th{
   color:orange;
   text-align: left;
 } 
-/* #your-orders{
+#your-orders{
   color: white;
   font-size: 30px;
-} */
-
+}
+/* 
 #contact h2{
   text-align: center;
-}
+} */
 #contact{
   color: black;
 }
