@@ -158,14 +158,14 @@ nav .navbar{
   padding-left: 2%;
   padding-right: 2%;
 }
-/* .deliver{
+.deliver{
   display: none;
-} */
-.delivery{
+} 
+/* .delivery{
   display: none;
   padding-left: 10%;
   padding-right: 10%;
-}
+} */
 td,th{
   font-size: 20px;
   color: white;
