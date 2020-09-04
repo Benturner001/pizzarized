@@ -107,17 +107,17 @@ nav .navbar{
 .d-flex{
   display: flex !important;
 }
-/* .arrow{
+.arrow{
   position: relative;
   left: 50%;
   top: 90%;
   margin-left:-20px;
   
-} */
+} 
 
-.bounce {
+/* .bounce {
   animation: bounce 2s infinite;
-}
+} */
 
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
