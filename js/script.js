@@ -157,11 +157,11 @@ $(document).ready(function(){
       $("#pizzatotal").append("Your bill is sh. "+checkoutTotal);
     });
 
-    // home delivery button
-    // $("button.deliver").click(function(){
-    //   $(".pizzatable").hide();
-    //   $(".choise h2").hide();
-    //   $(".delivery").slideDown(1000);
+    home delivery button
+    $("button.deliver").click(function(){
+      $(".pizzatable").hide();
+      $(".choise h2").hide();
+      $(".delivery").slideDown(1000);
       $("#addedprice").hide();
       $("button.deliver").hide();
       $("#pizzatotal").hide();
