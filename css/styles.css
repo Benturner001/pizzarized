@@ -31,13 +31,13 @@ h1 {
   position: absolute;
   /* overflow-x: hidden; */
 } 
-/* #head{
+#head{
   padding-top: 10%;
-} */
-nav .navbar{
+} 
+/* nav .navbar{
   width: 99%;
   padding-right: 0px;
-}
+} */
 .navbar-brand{
   margin-right: 30%;
   font-weight:800;
