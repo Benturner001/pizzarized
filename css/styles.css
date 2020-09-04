@@ -104,17 +104,16 @@ nav .navbar{
   text-align: justify;
   overflow-x: hidden;
 } 
-/* .d-flex{
+.d-flex{
   display: flex !important;
-} */
-.arrow
-{
+}
+/* .arrow{
   position: relative;
   left: 50%;
   top: 90%;
   margin-left:-20px;
   
-}
+} */
 
 .bounce {
   animation: bounce 2s infinite;
