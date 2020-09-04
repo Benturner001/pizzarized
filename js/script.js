@@ -136,9 +136,9 @@ $(document).ready(function(){
         total = price + crust_price + topping_value;
         console.log(total);
 
-        checkoutTotal = checkoutTotal + total;
-        console.log(checkoutTotal);
-      // constractor function
+      //   checkoutTotal = checkoutTotal + total;
+      //   console.log(checkoutTotal);
+      // // constractor function
       var newOrder = new Getpizza(pname, psize, pcrust,ptopping,total);
 
       $("#ordersmade").append('<tr><td id="pizzaname">'+newOrder.name +'</td><td id="pizzasize">' + newOrder.size + '</td><td id="pizzacrust">'+newOrder.crust + '</td><td id="pizzatopping">'+newOrder.topping+'</td><td id="totals">'+newOrder.total+'</td></tr>');
