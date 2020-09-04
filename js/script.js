@@ -158,10 +158,10 @@ $(document).ready(function(){
     });
 
     // home delivery button
-    $("button.deliver").click(function(){
-      $(".pizzatable").hide();
-      $(".choise h2").hide();
-      $(".delivery").slideDown(1000);
+    // $("button.deliver").click(function(){
+    //   $(".pizzatable").hide();
+    //   $(".choise h2").hide();
+    //   $(".delivery").slideDown(1000);
       $("#addedprice").hide();
       $("button.deliver").hide();
       $("#pizzatotal").hide();
