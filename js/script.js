@@ -26,9 +26,9 @@ $(document).ready(function(){
    });
    console.log(ptopping.join(", "));
 
-  //  switch(psize){
-  //   case "0":
-  //     price =0;
+   switch(psize){
+    case "0":
+      price =0;
     break;
     case "large":
        price = 1200;
