@@ -174,9 +174,9 @@ $(document).ready(function(){
     $("button#final-order").click(function(event){
       event.preventDefault();
 
-      $("#pizzatotal").hide();
-      $(".delivery").hide();
-      $("button#final-order").hide();
+      // $("#pizzatotal").hide();
+      // $(".delivery").hide();
+      // $("button#final-order").hide();
       let deliceryamount= checkoutTotal+150;
       console.log("Final Bill is: "+deliceryamount);
       let person = $("input#name").val();
