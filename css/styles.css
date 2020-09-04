@@ -184,12 +184,12 @@ td,th{
 #contact{
   color: black;
 }
-/* #contactdetails h2{
+#contactdetails h2{
   text-align: left;
-} */
-.footer{
+} 
+/* .footer{
   padding-top: 5%;
-}
+} */
 #addedprice{
   display: none;
 }
