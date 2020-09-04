@@ -74,16 +74,16 @@ nav .navbar{
   color: green;
   font-weight: 800;
 } 
-/* .controls-top h2{
+.controls-top h2{
   color: rgb(5, 172, 5);
   padding-top: 40px;
   padding-bottom: 20px;
   font-weight: bolder;
-} */
-.col-md-4{
+} 
+/* .col-md-4{
   border-radius: 10%;
   padding: 10px;
-}
+} */
 #about-us{
   min-height: 70vh;
   align-items: center;
